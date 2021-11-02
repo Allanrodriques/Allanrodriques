@@ -7,21 +7,10 @@
 - 🔭 &nbsp;  I’m currently learning Frontend.
 - 🎓 &nbsp;  I'm Studying IT Engineering.
 - 🌱 &nbsp;  Enthusiast in cyber Security, Devops and Cloud Computing.
-- 💬 &nbsp; Ask me about Web Development.
+- 💬 &nbsp;  Ask me about Web Development.
 - ☕ &nbsp; I belive, a perfect cup of chai can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack </h3>
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![ReactJS](https://img.shields.io/badge/-ReactsJS-grey?style=for-the-badge&logo=ReactJS&logoColor=white&labelColor=8E2DE2)
-
-
-
 - 💻 &nbsp; Python | C | C++ <br>
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS  <br>
 - 🛢  &nbsp; Docker | Jenkins | SonarQube  <br>
