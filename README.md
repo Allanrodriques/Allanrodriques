@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2">
 <br>
 <img src="https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-Jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=8E2DE2">
+
 
 
 
