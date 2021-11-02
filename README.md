@@ -11,6 +11,8 @@
 - ☕ &nbsp; I belive, a perfect cup of chai can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack </h3>
+![HTML5](https://img.shields.io/badge/JS-ReactJS-brightgreen)
+
 - 💻 &nbsp; Python | C | C++ <br>
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS  <br>
 - 🛢  &nbsp; Docker | Jenkins | SonarQube  <br>
