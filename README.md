@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Python | C | C++ <br>
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | <img src="https://img.shields.io/badge/JS-ReactJS-brightgreen"> <br>
+- 🌐 &nbsp; HTML https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2 | CSS | JavaScript | Bootstrap | <img src="https://img.shields.io/badge/JS-ReactJS-brightgreen"> <br>
 - 🛢  &nbsp; Docker | Jenkins | SonarQube  <br>
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git <br>
 
