@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp;  I’m currently learning Frontend and Devops.
 - 🎓 &nbsp;  I'm Studying IT Engineering.
-- 🌱 &nbsp;  Enthusiast in Cyber Security and Cloud Computing.
+- 🌱 &nbsp;  Enthusiast in Cloud Computing.
 - 💬 &nbsp;  Ask me about Web Development.
 - ☕ &nbsp; I belive, a perfect cup of chai can be the ultimate solution for any stress. 
 
