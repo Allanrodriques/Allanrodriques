@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp;  I’m currently learning Frontend and Devops.
+- 🔭 &nbsp;  I’m currently learning ML and Cloud .
 - 🎓 &nbsp;  I'm Studying IT Engineering.
 - 🌱 &nbsp;  Enthusiast in Cloud Computing.
 - 💬 &nbsp;  Ask me about Web Development.
