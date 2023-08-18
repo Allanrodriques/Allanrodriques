@@ -24,9 +24,11 @@
 <img src="https://img.shields.io/badge/-Jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=8E2DE2">
 <img src="https://img.shields.io/badge/-aws-grey?style=for-the-badge&logo=aws&logoColor=white&labelColor=8E2DE2">
 <img src="https://img.shields.io/badge/-ansible-grey?style=for-the-badge&logo=ansible&logoColor=white&labelColor=8E2DE2">
-<img src="https://img.shields.io/badge/-sonarqube-grey?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=8E2DE2">
-<img src="https://img.shields.io/badge/-maven-grey?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=8E2DE2">
-<img src="https://img.shields.io/badge/-terraform-grey?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-sonarqube-grey?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-maven-grey?style=for-the-badge&logo=maven&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-terraform-grey?style=for-the-badge&logo=terraform&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2">
+
 
 
 
