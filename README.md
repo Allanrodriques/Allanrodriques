@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp;  I’m currently learning ML and Cloud .
-- 🎓 &nbsp;  I'm Studying IT Engineering.
-- 🌱 &nbsp;  Enthusiast in Cloud Computing.
-- 💬 &nbsp;  Ask me about Web Development.
+- 🔭 &nbsp;  I’m currently learning DevOps and Cloud .
+- 🎓 &nbsp;  I'm graduated in IT Engineering.
+- 🌱 &nbsp;  Enthusiast in automation.
+- 💬 &nbsp;  Ask me about DevOps and Web Development.
 - ☕ &nbsp; I belive, a perfect cup of chai can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack </h3>
@@ -22,6 +22,10 @@
 <br>
 <img src="https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2">
 <img src="https://img.shields.io/badge/-Jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-aws-grey?style=for-the-badge&logo=aws&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-ansible-grey?style=for-the-badge&logo=ansible&logoColor=white&labelColor=8E2DE2">
+
+
 
 <br>
 
