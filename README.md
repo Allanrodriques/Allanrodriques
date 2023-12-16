@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/-sonarqube-grey?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=8E2DE2">
 <img src="https://img.shields.io/badge/-maven-grey?style=for-the-badge&logo=maven&logoColor=white&labelColor=8E2DE2">
 <img src="https://img.shields.io/badge/-terraform-grey?style=for-the-badge&logo=terraform&logoColor=white&labelColor=8E2DE2">
-<img src="https://img.shields.io/badge/-kubernetes-grey?style=for-the-badge&logo=terraform&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-kubernetes-grey?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=8E2DE2">
 
 
 
