@@ -7,7 +7,7 @@
 - 🔭 &nbsp;  I’m currently learning DevOps and Cloud .
 - 🎓 &nbsp;  I'm graduated in IT Engineering.
 - 🌱 &nbsp;  Enthusiast in automation.
-- 💬 &nbsp;  Ask me about DevOps and Web Development.
+- 💬 &nbsp;  Ask me about DevOps and Cloud.
 - ☕ &nbsp; I belive, a perfect cup of chai can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack </h3>
@@ -27,6 +27,9 @@
 <img src="https://img.shields.io/badge/-sonarqube-grey?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=8E2DE2">
 <img src="https://img.shields.io/badge/-maven-grey?style=for-the-badge&logo=maven&logoColor=white&labelColor=8E2DE2">
 <img src="https://img.shields.io/badge/-terraform-grey?style=for-the-badge&logo=terraform&logoColor=white&labelColor=8E2DE2">
+<img src="https://img.shields.io/badge/-kubernetes-grey?style=for-the-badge&logo=terraform&logoColor=white&labelColor=8E2DE2">
+
+
 
 
 
