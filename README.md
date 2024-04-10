@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp;  I’m a system engineer trainee  .
+- 🔭 &nbsp;  I’m a System Engineer Trainee  .
 - 🎓 &nbsp;  I'm graduated in IT Engineering.
 - 🌱 &nbsp;  Enthusiast in automation.
 - 💬 &nbsp;  Ask me about DevOps,Linux and Cloud.
