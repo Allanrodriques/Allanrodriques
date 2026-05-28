@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp;  I’m a Linux admin  .
+- 🔭 &nbsp;  I’m a DevOps Engineer  .
 - 🎓 &nbsp;  I'm graduated in IT Engineering.
 - 🌱 &nbsp;  Enthusiast in automation.
 - 💬 &nbsp;  Ask me about DevOps,Linux and Cloud.
